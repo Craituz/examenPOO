@@ -1,0 +1,10 @@
+C:\Users\CompuStore\source\repos\Examen2020\Examen2020\bin\Debug\Examen2020.exe.config
+C:\Users\CompuStore\source\repos\Examen2020\Examen2020\bin\Debug\Examen2020.exe
+C:\Users\CompuStore\source\repos\Examen2020\Examen2020\bin\Debug\Examen2020.pdb
+C:\Users\CompuStore\source\repos\Examen2020\Examen2020\obj\Debug\Examen2020.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\Examen2020\Examen2020\obj\Debug\Examen2020.exe
+C:\Users\CompuStore\source\repos\Examen2020\Examen2020\obj\Debug\Examen2020.pdb
+C:\Users\Usuario\Desktop\Examen2020\Examen2020\obj\Debug\Examen2020.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Examen2020\Examen2020\obj\Debug\Examen2020.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Examen2020\Examen2020\obj\Debug\Examen2020.exe
+C:\Users\Usuario\Desktop\Examen2020\Examen2020\obj\Debug\Examen2020.pdb
